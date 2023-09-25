@@ -27,7 +27,7 @@ __4. Download of RNAseq data from GEO (SRA) and pseudomapping using Salmon__
 
      2023 SRA download - Salmon.R
 
-     _Files necessary for processing:_
+_Files necessary for processing:_
 
          #1 gse2srr.sh
 
