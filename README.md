@@ -1,6 +1,6 @@
 # Meta-Analysis
 
-The workflow for meta-analyis of nulk RNAseq data as established in manuscript "Systematic Transcriptome-wide Meta-Analysis across Endocrine Disrupting Chemicals Reveals Shared and Unique Liver Pathways, Gene Networks, and Disease Associations".
+The workflow for meta-analyis of bulk RNAseq data as established in manuscript "Systematic Transcriptome-wide Meta-Analysis across Endocrine Disrupting Chemicals Reveals Shared and Unique Liver Pathways, Gene Networks, and Disease Associations".
 
 
 __1. Download of microarray data from GEO and sample finding__  
