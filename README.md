@@ -3,8 +3,8 @@
 The workflow as established in manuscript "Systematic Transcriptome-wide Meta-Analysis across Endocrine Disrupting Chemicals Reveals Shared and Unique Liver Pathways, Gene Networks, and Disease Associations".
 
 
-1. Download of microarray data from GEO and sample finding  
-
+**1. Download of microarray data from GEO and sample finding  
+**
     2023_Microarray download-sample_finder code.R
 
 2. Normalization check and LIMMA
