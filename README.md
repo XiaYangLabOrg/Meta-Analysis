@@ -12,7 +12,7 @@ The workflow as established in manuscript "Systematic Transcriptome-wide Meta-An
     2023 MA and LIMMA Code.R
 
    Files necessary for processing:
-           #1 old_HUGO_new_HUGO.rda
+           1) old_HUGO_new_HUGO.rda
            #2 organ_search_codeZ.r
            #3 HUGO_symbols.txt
            #4 human_rat_hcop_fifteen_column.txt
