@@ -1,7 +1,7 @@
 # Meta-Analysis
 
+The workflow as established in manuscript "Systematic Transcriptome-wide Meta-Analysis across Endocrine Disrupting Chemicals Reveals Shared and Unique Liver Pathways, Gene Networks, and Disease Associations".
 
-Workflow
 
 1. Download of microarray data from GEO and sample finding  
 
