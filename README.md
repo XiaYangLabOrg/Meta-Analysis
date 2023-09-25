@@ -7,11 +7,11 @@ __1. Download of microarray data from GEO and sample finding__
 
     2023_Microarray download-sample_finder code.R
 
-2. Normalization check and LIMMA
+__2. Normalization check and LIMMA__
 
     2023 MA and LIMMA Code.R
 
-   Files necessary for processing:
+   _Files necessary for processing:_
 
            #1 old_HUGO_new_HUGO.rda
 
@@ -23,19 +23,23 @@ __1. Download of microarray data from GEO and sample finding__
 
            #5 human_mouse_hcop_fifteen_column.txt
            
-4. Download of RNAseq data from GEO (SRA) and pseudomapping using Salmon
+__4. Download of RNAseq data from GEO (SRA) and pseudomapping using Salmon__
 
      2023 SRA download - Salmon.R
 
-5. Importing quantification and DESeq2
+     _Files necessary for processing:_
+
+     #1 gse2srr.sh
+
+__5. Importing quantification and DESeq2__
 
      2023 Tximport - DESeq2.R
 
-6. Robust rank aggregation and enrichR (KEGG + DisGeNET)
+__6. Robust rank aggregation and enrichR (KEGG + DisGeNET)__
 
      2023_Meta-signature_enrichr_script.R
 
-7. wKDA analysis
+__7. wKDA analysis__
 
      2023_KDA.R
    
