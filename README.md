@@ -34,7 +34,13 @@ _Files necessary for processing:_
 __5. Importing quantification and DESeq2__
 
      2023 Tximport - DESeq2.R
+     
+_Depending on species one of the following files is necessary for processing:_
 
+        #1 Common_Ratgenecode2gene.rda
+        #2 Common_Mousegenecode2gene.rda
+        #3 Common_Humangenecode2gene.rda
+        
 __6. Robust rank aggregation and enrichR (KEGG + DisGeNET)__
 
      2023_Meta-signature_enrichr_script.R
