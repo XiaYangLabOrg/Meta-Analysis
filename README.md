@@ -10,20 +10,21 @@ The workflow as established in manuscript "Systematic Transcriptome-wide Meta-An
 2. Normalization check and LIMMA
 
     2023 MA and LIMMA Code.R
-
-3. Download of RNAseq data from GEO (SRA) and pseudomapping using Salmon
+        Files necessary for processing
+           
+4. Download of RNAseq data from GEO (SRA) and pseudomapping using Salmon
 
      2023 SRA download - Salmon.R
 
-4. Importing quantification and DESeq2
+5. Importing quantification and DESeq2
 
      2023 Tximport - DESeq2.R
 
-5. Robust rank aggregation and enrichR (KEGG + DisGeNET)
+6. Robust rank aggregation and enrichR (KEGG + DisGeNET)
 
      2023_Meta-signature_enrichr_script.R
 
-6. wKDA analysis
+7. wKDA analysis
 
      2023_KDA.R
    
