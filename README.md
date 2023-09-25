@@ -10,7 +10,12 @@ The workflow as established in manuscript "Systematic Transcriptome-wide Meta-An
 2. Normalization check and LIMMA
 
     2023 MA and LIMMA Code.R
-        Files necessary for processing
+       ** Files necessary for processing:**
+           #1 old_HUGO_new_HUGO.rda
+           #2 organ_search_codeZ.r
+           #3 HUGO_symbols.txt
+           #4 human_rat_hcop_fifteen_column.txt
+           #5 human_mouse_hcop_fifteen_column.txt
            
 4. Download of RNAseq data from GEO (SRA) and pseudomapping using Salmon
 
