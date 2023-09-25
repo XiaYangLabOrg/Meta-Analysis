@@ -29,7 +29,7 @@ __4. Download of RNAseq data from GEO (SRA) and pseudomapping using Salmon__
 
      _Files necessary for processing:_
 
-     #1 gse2srr.sh
+         #1 gse2srr.sh
 
 __5. Importing quantification and DESeq2__
 
